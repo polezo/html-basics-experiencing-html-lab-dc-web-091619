@@ -1,0 +1,7 @@
+Bitcoin
+Ether
+Monero
+Zcash
+Augur
+Maker
+DAI
